@@ -1,0 +1,40 @@
+@import url(../1start/animation/style.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+}
+
+.cent {
+    background-color: #222;
+    text-align: center;
+    padding: 50px;
+    width: 300px;
+    height: 250px;
+    border: #fff solid 4px;
+    margin: auto;
+    margin-top: 13%;
+}
+
+.cent .i1{
+    border: none;
+    padding: 10px;
+}
+
+.cent .i2{
+    margin-top: 15px;
+    border: none;
+    padding: 10px;
+}
+
+.cent .butto{
+    margin-top: 15px;
+    color: #fff;
+    border: #fff solid 2px;
+}
+

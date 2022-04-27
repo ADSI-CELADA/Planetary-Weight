@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #222;
+}
+
+.btn {
+    display: block;
+}
+
+.--sl {
+    border-radius: 10px;
+    border: #ffffff 4px solid;
+    font-family: cursive;
+    background-color: #222;
+    color: #fff;
+    padding: 20px 60px 20px 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22%;
+    transition: all 0.8s ease-in-out;
+
+}
+
+.--sl:hover{
+    color: #fff;
+    }
+
+
+    

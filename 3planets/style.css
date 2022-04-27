@@ -1,0 +1,45 @@
+@import url(../1start/animation/style.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #222;
+}
+
+.cent {
+    background-color: #222;
+    text-align: center;
+    padding: 50px;
+    width: 400px;
+    height: 300px;
+    border: #fff solid 4px;
+    margin: auto;
+    margin-top: 13%;
+    transition: all 2s ease-in;
+}
+
+p{
+    color: white;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+.cent button{
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: cursive;
+    border: solid white 2px;
+}
+
+.cent button:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+
+
+
